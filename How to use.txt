@@ -1,0 +1,8 @@
+STEP1: DOWNLOAD the python file.
+STEP 2: MOVE the python file to your desktop
+STEP 3: OPEN your command prompt
+STEP 4: do this
+
+C:\Users\Samuel>cd Desktop
+
+C:\Users\Samuel\Desktop>python3 downloadOrganizer.py 
